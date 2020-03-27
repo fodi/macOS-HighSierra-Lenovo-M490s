@@ -11,6 +11,7 @@ This repository contains the EFI partition contents needed to install and run ma
   - 4GB RAM (a single module)
   - 120GB Kingston SMS200S3120G M.2 SSD
   - Intel Centrino Wireless-N 2230 (which is not going to work, and since Lenovo has a restrictive BIOS device whitelist on this device, replacement is probably not possible without a BIOS mod)
+  - Realtek RTL8111 compatible Gigabit Ethernet
   - Realtek ALC269VC audio
   - Intel HD Graphics 3000
   - nVidia GeForce 710M (which is not going to work and should be disabled in the BIOS, Optimus is not supported by macOS)
